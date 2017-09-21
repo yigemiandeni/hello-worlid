@@ -1,2 +1,2 @@
-# hello-worlid
+# hello-world
 learn git
